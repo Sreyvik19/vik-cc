@@ -48,3 +48,9 @@ Project description here
 for i in range(4):
     print(i)
 ```
+## Check list
+- [x] Home page
+- [x] About page
+- [ ] Contant page
+- [ ] Service page
+
