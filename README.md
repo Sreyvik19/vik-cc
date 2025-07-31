@@ -25,3 +25,26 @@ Project description here
 | id | name | age | phone |
 |----|------|-----|-------|
 | 73 | vikk | 188 | 07155 |
+
+## Block quote
+
+> npm install 
+
+> composer install 
+
+> pip install
+
+## Code online
+`print("hello word)`
+
+`npm install express`
+
+## Code mutiple line
+```html
+<h1>Hello vik</h1>
+<p>I love you</p>
+```
+```Python
+for i in range(4):
+    print(i)
+```
