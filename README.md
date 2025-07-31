@@ -23,5 +23,5 @@ Project description here
 ## Table
 
 | id | name | age | phone |
-|----|------|-----|------|
-| 73 | vik | 18 | 071 |
+|----|------|-----|-------|
+| 73 | vikk | 188 | 07155 |
