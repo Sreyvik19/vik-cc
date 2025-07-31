@@ -57,3 +57,6 @@ for i in range(4):
 ## Link 
 
 CSS framework [Taqilwindcss](https://www.w3schools.com/)
+
+## Image dashboard
+![Dashboard](vik.jpg)
